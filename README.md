@@ -12,22 +12,12 @@
 - 🎯 Goal: Professional Software Engineer & Security Specialist  
 
 ## 🛠️ Skills & Tools
-**Python**      ▓▓▓▓▓▓▓▓▓▓ 90%  
-**JavaScript**  ▓▓▓▓▓▓▓▓░░ 75%  
-**C++**         ▓▓▓▓▓▓▓░░░ 70%  
-**Django**      ▓▓▓▓▓▓▓░░░ 70%  
-**Flask**       ▓▓▓▓▓▓▓▓░░ 80%  
-**React**       ▓▓▓▓▓▓▓░░░ 70%  
-**Git**         ▓▓▓▓▓▓▓▓▓░ 85%  
-**Docker**      ▓▓▓▓▓▓▓░░░ 70%  
-**Linux**       ▓▓▓▓▓▓▓▓▓░ 85%  
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📌 Featured Projects
 - [Secure-Login-System](https://github.com/taohid87/secure-login-system)  
@@ -46,7 +36,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://taohid87.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
 
-## 💬 Quotes Carousel
+## 💬 Quotes
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   <i>"Simplicity is the soul of efficiency."</i><br>
